@@ -9,7 +9,7 @@ namespace EX21StreamWriter
     {
         static void Main(string[] args)
         {
-            using (StreamWriter writer = new StreamWriter("MyFile.txt"))
+            using (StreamWriter writer = new StreamWriter(@"C:\Users\emil41m5\Desktop\MyFile.txt"))
             {
                 writer.Write("Dette bliver skrevet på en linje");
                 writer.Write(".. og det her fortsætter på samme linje");

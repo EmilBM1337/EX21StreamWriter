@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX21StreamWriter", "EX21StreamWriter\EX21StreamWriter.csproj", "{447C740B-B62A-44FD-B218-4014C0F53DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave 21.1", "EX21StreamWriter\Opgave 21.1.csproj", "{447C740B-B62A-44FD-B218-4014C0F53DA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave 21.2", "Opgave 21.2\Opgave 21.2.csproj", "{7332010D-CFD9-4FC0-9DA0-6DE9F7721546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 21.3", "Opgave 21.3\Opgave 21.3.csproj", "{A488F252-2236-47AA-9153-88F8CF1FAD05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{447C740B-B62A-44FD-B218-4014C0F53DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447C740B-B62A-44FD-B218-4014C0F53DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447C740B-B62A-44FD-B218-4014C0F53DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7332010D-CFD9-4FC0-9DA0-6DE9F7721546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7332010D-CFD9-4FC0-9DA0-6DE9F7721546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7332010D-CFD9-4FC0-9DA0-6DE9F7721546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7332010D-CFD9-4FC0-9DA0-6DE9F7721546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A488F252-2236-47AA-9153-88F8CF1FAD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A488F252-2236-47AA-9153-88F8CF1FAD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A488F252-2236-47AA-9153-88F8CF1FAD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A488F252-2236-47AA-9153-88F8CF1FAD05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
