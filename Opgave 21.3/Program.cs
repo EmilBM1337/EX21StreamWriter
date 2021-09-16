@@ -11,7 +11,7 @@ namespace Opgave_21._3
         {
             using (StreamWriter writer = new StreamWriter(@"C:\Users\emil41m5\Desktop\MyFile3.txt"))
             {
-
+                
             }
         }
     }
